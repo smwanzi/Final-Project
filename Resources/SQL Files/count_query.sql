@@ -1,0 +1,1 @@
+select count(*) from bikes_nondups;
